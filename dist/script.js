@@ -13,7 +13,7 @@ const CLINIC_CONFIG = {
   consultationFee: { en: '', hi: '' }, // Fill only after the clinic confirms its fee.
   googleMapsLink: "https://www.google.com/maps?cid=16334052357820635348",
   googleMapsEmbed: 'https://maps.google.com/maps?q=28.7039334,77.2645598&z=16&output=embed',
-  siteUrl: 'https://family-physio-movement.ardent-vale-0425.chatgpt.site',
+  siteUrl: 'https://familyphysio.vercel.app',
   practitioner: {
     name: { en: 'Dr. Shehzad', hi: 'डॉ. शहज़ाद' },
     bio: {"en": "A physiotherapist at Family Physio Clinic in Bhajanpura, Delhi. Your assessment looks at your symptoms, joint movement and strength, followed by a treatment plan and practical exercises for everyday activities.", "hi": "दिल्ली के भजनपुरा स्थित फैमिली फिजियो क्लिनिक में फिजियोथेरेपिस्ट। जाँच में आपके लक्षणों, जोड़ों की गतिविधि और ताकत को समझकर उपचार की योजना और रोज़मर्रा की गतिविधियों के लिए व्यायाम बताए जाते हैं।"},
