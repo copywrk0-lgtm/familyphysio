@@ -1,0 +1,658 @@
+{
+  "en": {
+    "skip": "Skip to treatments",
+    "mainNav": "Main navigation",
+    "mobileNav": "Mobile navigation",
+    "navCare": "Treatments",
+    "navVisit": "Your first visit",
+    "navAbout": "About the clinic",
+    "navFind": "Find us",
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "switchLanguage": "Switch to Hindi",
+    "heroEyebrow": "Physiotherapy & pain care · Bhajanpura, Delhi",
+    "heroLine1": "Relief that starts",
+    "heroLine2": "where it hurts.",
+    "heroIntro": "Back pain, neck pain, knee pain or sciatica? Start with a physiotherapy assessment and a treatment plan for better everyday movement.",
+    "bookAssessment": "Book an assessment",
+    "takeCheck": "Describe your pain",
+    "physio": "Physiotherapy",
+    "chiro": "Chiropractic",
+    "hijama": "Hijama",
+    "heroNote": "An assessment. A treatment plan. Guidance between visits.",
+    "heroBottom1": "Book directly by phone or WhatsApp.",
+    "heroBottom2": "Bhajanpura, Delhi",
+    "exploreCare": "Explore our care",
+    "mapLabel": "Where would you like support?",
+    "bodyTitle": "Interactive spine illustration",
+    "bodyDesc": "The supplied curved spine illustration has three interactive gold markers for neck, back and spine concerns, and lower back. Five labelled pills below offer neck, shoulder, lower back, knee and ankle information.",
+    "neck": "Neck",
+    "shoulder": "Shoulder",
+    "lowerBack": "Lower back",
+    "knee": "Knee",
+    "ankle": "Ankle",
+    "neckAria": "Explore neck pain",
+    "shoulderAria": "Explore shoulder pain",
+    "backAria": "Explore lower back pain",
+    "kneeAria": "Explore knee pain",
+    "ankleAria": "Explore ankle pain",
+    "mapInstruction": "Tap a gold point, or choose your area below the spine.",
+    "noScript": "Interactive features need JavaScript. Please call or WhatsApp the clinic directly.",
+    "treatmentsLabel": "01 / Treatment options",
+    "treatmentsHeading": "Treatment for pain.\nA plan for better movement.",
+    "treatmentsIntro": "Tell us where it hurts and what feels difficult. Your assessment guides the choice of treatment.",
+    "physioShort": "Treatment for back, neck and knee pain, stiffness and movement problems.",
+    "chiroShort": "Hands-on care for back pain, neck pain and joint stiffness.",
+    "hijamaShort": "Wet cupping with a suitability check and clear aftercare.",
+    "exploreTreatment": "Explore this treatment",
+    "whoFor": "Concerns to discuss",
+    "whatExpect": "What to expect",
+    "physioDesc": "Physiotherapy combines targeted exercise, movement advice and hands-on treatment to support pain relief, strength and mobility.",
+    "physioWho": "Back pain, neck pain, knee pain, shoulder pain, sciatica and difficulty with everyday movement.",
+    "physioExpect": "An assessment of your symptoms, movement and strength, followed by a treatment plan and exercises to practise between visits.",
+    "chiroDesc": "Chiropractic uses hands-on techniques to work on joint movement. For back pain, manual care is combined with exercise and movement advice.",
+    "chiroWho": "People with back pain, neck pain or stiffness who want to discuss hands-on treatment.",
+    "chiroExpect": "A health-history and suitability check, an explanation of benefits and risks, and your consent before treatment.",
+    "hijamaDesc": "Hijama is wet cupping. Evidence for pain relief is limited; it is not a replacement for medical assessment.",
+    "hijamaWho": "People who want to discuss cupping with a practitioner. Medical history and medicines must be reviewed first.",
+    "hijamaExpect": "A suitability check, consent, hygiene precautions and aftercare guidance. Ask about bleeding, infection and other risks.",
+    "discussPhysio": "Discuss physiotherapy",
+    "discussChiro": "Discuss chiropractic care",
+    "discussHijama": "Discuss hijama",
+    "treatmentNote": "Your assessment determines the treatment. Results vary.",
+    "firstLabel": "02 / Your first visit",
+    "firstHeading": "Know what comes next.",
+    "firstIntro": "Discuss your symptoms, understand your treatment options and ask about fees before you begin.",
+    "step1Title": "Assessment",
+    "step1Body": "We discuss your concern, health history and the movements that feel difficult.",
+    "step2Title": "Your plan",
+    "step2Body": "Your physiotherapist explains the treatment options, expected session plan and exercises for home.",
+    "step3Title": "Your sessions",
+    "step3Body": "Treatment and movement guidance are adapted to your needs and response.",
+    "step4Title": "Follow-up",
+    "step4Body": "Review your progress, ask questions and adjust the plan together.",
+    "quizLabel": "03 / Describe your symptoms",
+    "quizHeading": "Tell us about\nyour pain.",
+    "quizIntro": "Answer five questions to prepare your enquiry. If you chose a pain area on the spine map, it is already selected.",
+    "quizDisclaimer": "This is a guide to an enquiry, not a diagnosis or personalised medical advice. Your answers stay in this browser until you choose to send a WhatsApp message.",
+    "quizMeta": "YOUR MOVEMENT CHECK-IN",
+    "back": "Back",
+    "next": "Continue",
+    "getResult": "See my starting point",
+    "quizFooter": "Your answers help us understand your enquiry.",
+    "questionStep": "Question {current} of {total}",
+    "selectAnswer": "Choose one answer, then continue.",
+    "questions": [
+      {
+        "title": "Where would you like support?",
+        "note": "Choose the area that bothers you most.",
+        "options": [
+          [
+            "neck",
+            "Neck"
+          ],
+          [
+            "shoulder",
+            "Shoulder"
+          ],
+          [
+            "back",
+            "Lower back"
+          ],
+          [
+            "knee",
+            "Knee"
+          ],
+          [
+            "ankle",
+            "Ankle"
+          ],
+          [
+            "other",
+            "Somewhere else / not sure"
+          ]
+        ]
+      },
+      {
+        "title": "How long has it been bothering you?",
+        "note": "An approximate answer is fine.",
+        "options": [
+          [
+            "recent",
+            "Less than a week"
+          ],
+          [
+            "weeks",
+            "1–6 weeks"
+          ],
+          [
+            "persistent",
+            "More than 6 weeks"
+          ],
+          [
+            "recurring",
+            "It comes and goes"
+          ]
+        ]
+      },
+      {
+        "title": "When do you notice it most?",
+        "note": "Think about your usual day.",
+        "options": [
+          [
+            "sitting",
+            "Sitting or working"
+          ],
+          [
+            "movement",
+            "Walking, stairs or exercise"
+          ],
+          [
+            "rest",
+            "While resting or at night"
+          ],
+          [
+            "unsure",
+            "No clear pattern"
+          ]
+        ]
+      },
+      {
+        "title": "How is it affecting your day?",
+        "note": "Your everyday experience matters.",
+        "options": [
+          [
+            "mild",
+            "Noticeable, but I manage"
+          ],
+          [
+            "limited",
+            "Some activities are difficult"
+          ],
+          [
+            "disrupted",
+            "It interrupts work or sleep"
+          ],
+          [
+            "severe",
+            "I cannot use the area normally"
+          ]
+        ]
+      },
+      {
+        "title": "Any of these symptoms?",
+        "note": "These may need medical attention before a routine appointment.",
+        "options": [
+          [
+            "none",
+            "None of the signs below"
+          ],
+          [
+            "injury",
+            "Major injury or cannot bear weight"
+          ],
+          [
+            "nerve",
+            "New weakness or widespread numbness"
+          ],
+          [
+            "urgent",
+            "New bladder/bowel changes or numbness around the groin"
+          ],
+          [
+            "unwell",
+            "Fever with a hot, swollen joint"
+          ],
+          [
+            "unknown",
+            "I am unsure"
+          ]
+        ]
+      }
+    ],
+    "resultLabel": "YOUR SUGGESTED STARTING POINT",
+    "resultPhysio": "A physiotherapy assessment.",
+    "resultManual": "Physiotherapy, with a manual-care discussion.",
+    "resultClinical": "Speak to a clinician first.",
+    "resultUrgent": "Seek urgent medical care now.",
+    "resultPhysioBody": "A physiotherapy assessment can help clarify your concern and discuss movement, exercise or hands-on support. Your practitioner will decide which treatment is appropriate.",
+    "resultManualBody": "Begin with a physiotherapy assessment. For some persistent back or neck concerns, your practitioner may discuss manual care, including chiropractic techniques, alongside movement support. This quiz cannot establish suitability.",
+    "resultClinicalBody": "Please seek prompt medical advice before routine treatment. New weakness, major injury or fever with a swollen joint may need urgent care. If symptoms are severe or worsening, use urgent medical services; do not wait for a clinic reply. This quiz cannot assess urgency fully.",
+    "resultUrgentBody": "New bladder or bowel changes, or numbness around the groin with back pain, can require emergency assessment. Do not wait for a clinic WhatsApp reply. Go to the nearest emergency department or call India’s emergency number, 112.",
+    "quizLimits": "This is not a diagnosis. Hijama is not automatically recommended by this quiz; discuss its evidence, risks and suitability with the practitioner.",
+    "sendSummary": "Send my enquiry",
+    "callClinic": "Call the clinic",
+    "emergencyCall": "Call 112",
+    "restart": "Start again",
+    "aboutLabel": "04 / About the clinic",
+    "aboutHeading": "Local care.\nA clear treatment plan.",
+    "qualification": "Qualification",
+    "meetPractitioner": "Book with the clinic",
+    "practitionerPhotoSlot": "Real practitioner photo",
+    "clinicPhotoSlot": "Real clinic photo",
+    "photoPending": "Image to be supplied",
+    "clinicPhotoAlt": "Family Physio Clinic team inside the clinic",
+    "clinicPhotoCaption": "The people behind Family Physio Clinic.",
+    "reviewsLabel": "05 / Words from our community",
+    "reviewsHeading": "Care, in their words.",
+    "reviewsPending": "Real Google reviews will appear here once supplied. No sample testimonials or ratings are shown.",
+    "previousReviews": "Previous reviews",
+    "nextReviews": "Next reviews",
+    "reviewsRegion": "Clinic reviews",
+    "reviewsScroll": "Swipe or use the arrows to explore",
+    "allReviews": "Read full reviews on Google",
+    "reviewPendingLabel": "GOOGLE REVIEW / {number}",
+    "reviewPendingTitle": "A real voice belongs here.",
+    "reviewPendingBody": "Reserved for a genuine patient review from Google.",
+    "googleReview": "Google review",
+    "ratingLabel": "{rating} out of 5 stars",
+    "visitLabel": "06 / Visit us",
+    "visitHeading": "Physiotherapy in\nBhajanpura, Delhi.",
+    "openingHours": "Opening hours",
+    "confirmVisit": "Call or WhatsApp to ask about appointment availability.",
+    "mapFrameTitle": "Family Physio Clinic location on Google Maps",
+    "openMaps": "Open in Google Maps",
+    "footerLine": "Book your assessment.\nTake the next step.",
+    "backTop": "Back to top",
+    "disclaimer": "Results vary. Please consult our practitioner for an assessment.",
+    "footerLocation": "Delhi, India",
+    "panelLabel": "A starting point for care",
+    "closePanel": "Close pain information",
+    "commonCauses": "Possible common causes",
+    "helpfulCare": "Treatment options",
+    "panelNote": "Similar symptoms can have different causes. An assessment helps your practitioner understand what is appropriate for you.",
+    "bookThis": "Book for this concern",
+    "preferCall": "Prefer to talk? Call us",
+    "pain": {
+      "neck": {
+        "name": "Neck pain",
+        "intro": "For turning your head, looking up and getting through your workday more comfortably.",
+        "causes": "Muscle strain or tension, prolonged positions and changes in the joints can contribute. Your exact cause needs assessment.",
+        "care": "Physiotherapy may include movement guidance, exercise and appropriate hands-on support. Chiropractic or other manual techniques need a suitability check; hijama is not a default treatment."
+      },
+      "shoulder": {
+        "name": "Shoulder pain",
+        "intro": "For reaching, dressing and the small movements you do every day.",
+        "causes": "Tendon irritation, muscle strain, joint problems or frozen shoulder can cause discomfort. These need different approaches.",
+        "care": "Start with a physiotherapy assessment to discuss movement, strengthening and suitable hands-on support. Chiropractic or hijama should only be discussed after assessment."
+      },
+      "back": {
+        "name": "Lower back pain",
+        "intro": "Back pain or pain travelling down your leg? Describe your symptoms and the movements that are difficult.",
+        "causes": "Muscle strain, joint stiffness or irritation of a nerve can cause back or leg pain. Sciatica involves the sciatic nerve; an assessment checks what is causing your symptoms.",
+        "care": "A physiotherapy assessment guides exercises, movement advice and suitable hands-on treatment. Manual care for back pain is used alongside exercise."
+      },
+      "knee": {
+        "name": "Knee pain",
+        "intro": "For your walk, your stairs and getting up from your favourite chair.",
+        "causes": "Overuse, strain, tendon irritation, injury or arthritis may be involved. An assessment can help distinguish them.",
+        "care": "Physiotherapy can discuss strength, activity and movement guidance. Chiropractic or hijama are not automatic choices for knee pain; discuss suitability first."
+      },
+      "ankle": {
+        "name": "Ankle pain",
+        "intro": "For a steadier starting point with walking and everyday activity.",
+        "causes": "A sprain, tendon irritation, overuse or joint problems may contribute. Significant injury or inability to bear weight needs prompt medical advice.",
+        "care": "A physiotherapy assessment can discuss mobility, balance and strengthening. Chiropractic or hijama are not default ankle treatments; ask about appropriate options."
+      },
+      "spine": {
+        "name": "Back & spine concerns",
+        "intro": "Tell us where on your back you feel discomfort, and which everyday movements are difficult.",
+        "causes": "Muscle strain and other musculoskeletal factors are common. Sometimes nerves or other conditions are involved; pain alone does not identify the cause.",
+        "care": "A physiotherapy assessment guides exercises, movement advice and suitable hands-on treatment. Manual care for back pain is used alongside exercise."
+      }
+    },
+    "messages": {
+      "general": "Hi, I'd like to book an assessment at {clinic}.",
+      "physio": "Hi, I'd like to discuss physiotherapy at {clinic}.",
+      "chiro": "Hi, I'd like to discuss chiropractic care and whether it is suitable for me at {clinic}.",
+      "hijama": "Hi, I'd like to discuss hijama, its risks and whether it is suitable for me at {clinic}.",
+      "practitioner": "Hi, I'd like to book an assessment with {practitioner} at {clinic}.",
+      "pain": "Hi, I'd like to book for {concern} at {clinic}.",
+      "quiz": "Hi, I'd like to discuss an assessment at {clinic}.\nMy check-in answers:\n{answers}\nSuggested starting point: {result}\nPlease advise on availability.",
+      "fees": "Hi, what is the consultation fee at {clinic}, and when is an appointment available?"
+    },
+    "metaTitle": "{clinic} | Physiotherapy in Bhajanpura, Delhi",
+    "metaDescription": "Physiotherapy for back pain, neck pain, knee pain and sciatica at {clinic}, Bhajanpura, Delhi. Call or WhatsApp for an assessment, fees and availability.",
+    "emergencyHelp": "Emergency help: 112",
+    "mapControlsLabel": "Choose a pain area",
+    "spineImageAlt": "Curved teal line-art spine with three gold markers",
+    "spineAria": "Explore back and spine concerns",
+    "reviewExcerpt": "Excerpt from Google",
+    "reviewTranslation": "Hindi translation",
+    "continuePainCheck": "Continue pain check",
+    "consultationFeeLabel": "Consultation fee",
+    "askFee": "Ask the clinic",
+    "checkFee": "Ask about fees and availability",
+    "reviewLinkNote": "Selected excerpts from Google. Read the full reviews on the clinic’s listing."
+  },
+  "hi": {
+    "skip": "उपचार के विकल्पों पर जाएँ",
+    "mainNav": "मुख्य नेविगेशन",
+    "mobileNav": "मोबाइल नेविगेशन",
+    "navCare": "उपचार",
+    "navVisit": "आपकी पहली मुलाकात",
+    "navAbout": "क्लिनिक के बारे में",
+    "navFind": "हमारा पता",
+    "call": "कॉल करें",
+    "whatsapp": "व्हाट्सऐप",
+    "openMenu": "मेन्यू खोलें",
+    "closeMenu": "मेन्यू बंद करें",
+    "switchLanguage": "Switch to English",
+    "heroEyebrow": "फिजियोथेरेपी और दर्द की देखभाल · भजनपुरा, दिल्ली",
+    "heroLine1": "राहत की शुरुआत,",
+    "heroLine2": "जहाँ दर्द होता है।",
+    "heroIntro": "कमर, गर्दन या घुटने का दर्द, या साइटिका की परेशानी? फिजियोथेरेपी की जाँच से शुरुआत करें और रोज़मर्रा की गतिविधियों के लिए उपचार की योजना पाएँ।",
+    "bookAssessment": "जाँच के लिए संपर्क करें",
+    "takeCheck": "अपने दर्द के बारे में बताएँ",
+    "physio": "फिजियोथेरेपी",
+    "chiro": "कायरोप्रैक्टिक",
+    "hijama": "हिजामा",
+    "heroNote": "जाँच। उपचार की योजना। मुलाकातों के बीच व्यायाम का मार्गदर्शन।",
+    "heroBottom1": "फोन या व्हाट्सऐप से सीधे संपर्क करें।",
+    "heroBottom2": "भजनपुरा, दिल्ली",
+    "exploreCare": "देखभाल के विकल्प देखें",
+    "mapLabel": "आप कहाँ सहायता चाहते हैं?",
+    "bodyTitle": "रीढ़ की हड्डी का इंटरैक्टिव चित्र",
+    "bodyDesc": "दी गई घुमावदार रीढ़ की तस्वीर में गर्दन, पीठ और रीढ़ से जुड़ी परेशानियों तथा कमर के लिए तीन सुनहरे इंटरैक्टिव बिंदु हैं। नीचे पाँच बटन गर्दन, कंधे, कमर, घुटने और टखने की जानकारी देते हैं।",
+    "neck": "गर्दन",
+    "shoulder": "कंधा",
+    "lowerBack": "कमर",
+    "knee": "घुटना",
+    "ankle": "टखना",
+    "neckAria": "गर्दन के दर्द के विकल्प देखें",
+    "shoulderAria": "कंधे के दर्द के विकल्प देखें",
+    "backAria": "कमर के दर्द के विकल्प देखें",
+    "kneeAria": "घुटने के दर्द के विकल्प देखें",
+    "ankleAria": "टखने के दर्द के विकल्प देखें",
+    "mapInstruction": "सुनहरा बिंदु छुएँ या रीढ़ के नीचे अपना हिस्सा चुनें।",
+    "noScript": "इंटरैक्टिव सुविधाओं के लिए जावास्क्रिप्ट ज़रूरी है। कृपया क्लिनिक को सीधे कॉल या व्हाट्सऐप करें।",
+    "treatmentsLabel": "01 / उपचार के विकल्प",
+    "treatmentsHeading": "दर्द के लिए उपचार।\nबेहतर गतिविधि की योजना।",
+    "treatmentsIntro": "बताएँ कि कहाँ दर्द है और कौन-सी गतिविधि कठिन लगती है। जाँच के अनुसार उपचार चुना जाता है।",
+    "physioShort": "कमर, गर्दन और घुटने के दर्द, अकड़न और चलने-फिरने की परेशानी के लिए उपचार।",
+    "chiroShort": "कमर और गर्दन के दर्द तथा जोड़ों की अकड़न के लिए हाथों से उपचार।",
+    "hijamaShort": "उपयुक्तता की जाँच और बाद की देखभाल के साथ वेट कपिंग।",
+    "exploreTreatment": "इस उपचार के बारे में जानें",
+    "whoFor": "इन परेशानियों पर चर्चा करें",
+    "whatExpect": "क्या उम्मीद करें",
+    "physioDesc": "फिजियोथेरेपी में विशेष व्यायाम, गतिविधियों का मार्गदर्शन और हाथों से उपचार शामिल हैं, ताकि दर्द में राहत, ताकत और गतिशीलता में सहायता मिले।",
+    "physioWho": "कमर, गर्दन, घुटने और कंधे का दर्द, साइटिका और रोज़मर्रा की गतिविधियों में कठिनाई।",
+    "physioExpect": "लक्षणों, गतिविधि और ताकत की जाँच, उसके बाद उपचार की योजना और मुलाकातों के बीच करने के लिए व्यायाम।",
+    "chiroDesc": "कायरोप्रैक्टिक में जोड़ों की गतिविधि पर काम करने के लिए हाथों से तकनीकें इस्तेमाल की जाती हैं। कमर दर्द में इसे व्यायाम और गतिविधियों के मार्गदर्शन के साथ जोड़ा जाता है।",
+    "chiroWho": "कमर या गर्दन के दर्द और अकड़न में हाथों से किए जाने वाले उपचार पर चर्चा चाहने वाले लोग।",
+    "chiroExpect": "स्वास्थ्य इतिहास और उपयुक्तता की जाँच, लाभ व जोखिम की जानकारी और उपचार से पहले आपकी सहमति।",
+    "hijamaDesc": "हिजामा वेट कपिंग है। दर्द में राहत के प्रमाण सीमित हैं; यह चिकित्सकीय जाँच का विकल्प नहीं है।",
+    "hijamaWho": "वे लोग जो चिकित्सक से कपिंग पर चर्चा करना चाहते हैं। पहले स्वास्थ्य इतिहास और दवाओं की समीक्षा ज़रूरी है।",
+    "hijamaExpect": "उपयुक्तता की जाँच, सहमति, साफ़-सफ़ाई की सावधानियाँ और बाद की देखभाल। रक्तस्राव, संक्रमण और अन्य जोखिमों के बारे में पूछें।",
+    "discussPhysio": "फिजियोथेरेपी पर चर्चा करें",
+    "discussChiro": "कायरोप्रैक्टिक पर चर्चा करें",
+    "discussHijama": "हिजामा पर चर्चा करें",
+    "treatmentNote": "जाँच के अनुसार उपचार चुना जाता है। परिणाम अलग-अलग हो सकते हैं।",
+    "firstLabel": "02 / आपकी पहली मुलाकात",
+    "firstHeading": "आगे क्या होगा, जानें।",
+    "firstIntro": "अपने लक्षण और उपचार के विकल्प समझें तथा शुरू करने से पहले फीस के बारे में पूछें।",
+    "step1Title": "जाँच",
+    "step1Body": "हम आपकी परेशानी, स्वास्थ्य इतिहास और कठिन लगने वाली गतिविधियों पर बात करते हैं।",
+    "step2Title": "आपकी योजना",
+    "step2Body": "फिजियोथेरेपिस्ट उपचार के विकल्प, सत्रों की योजना और घर पर करने के लिए व्यायाम समझाते हैं।",
+    "step3Title": "आपके सत्र",
+    "step3Body": "आपकी ज़रूरत और प्रतिक्रिया के अनुसार उपचार और गतिविधियों का मार्गदर्शन दिया जाता है।",
+    "step4Title": "फॉलो-अप",
+    "step4Body": "प्रगति की समीक्षा करें, सवाल पूछें और साथ मिलकर योजना में बदलाव करें।",
+    "quizLabel": "03 / अपने लक्षण बताएँ",
+    "quizHeading": "अपने दर्द के\nबारे में बताएँ।",
+    "quizIntro": "अपनी जानकारी तैयार करने के लिए पाँच सवालों के जवाब दें। रीढ़ के चित्र पर चुना गया दर्द का हिस्सा पहले से चुना रहेगा।",
+    "quizDisclaimer": "यह संपर्क करने में मदद के लिए है, निदान या व्यक्तिगत चिकित्सकीय सलाह नहीं। जब तक आप व्हाट्सऐप संदेश भेजना न चुनें, आपके उत्तर इस ब्राउज़र में ही रहते हैं।",
+    "quizMeta": "आपकी गतिविधियों का चेक-इन",
+    "back": "पीछे",
+    "next": "आगे बढ़ें",
+    "getResult": "मेरी शुरुआत देखें",
+    "quizFooter": "आपके जवाब आपकी परेशानी समझने में मदद करते हैं।",
+    "questionStep": "सवाल {current}, कुल {total}",
+    "selectAnswer": "एक उत्तर चुनें, फिर आगे बढ़ें।",
+    "questions": [
+      {
+        "title": "आप कहाँ सहायता चाहते हैं?",
+        "note": "जो हिस्सा सबसे अधिक परेशान करता है, उसे चुनें।",
+        "options": [
+          [
+            "neck",
+            "गर्दन"
+          ],
+          [
+            "shoulder",
+            "कंधा"
+          ],
+          [
+            "back",
+            "कमर"
+          ],
+          [
+            "knee",
+            "घुटना"
+          ],
+          [
+            "ankle",
+            "टखना"
+          ],
+          [
+            "other",
+            "कहीं और / पता नहीं"
+          ]
+        ]
+      },
+      {
+        "title": "यह परेशानी कितने समय से है?",
+        "note": "लगभग समय बताना भी ठीक है।",
+        "options": [
+          [
+            "recent",
+            "एक हफ़्ते से कम"
+          ],
+          [
+            "weeks",
+            "1–6 हफ़्ते"
+          ],
+          [
+            "persistent",
+            "6 हफ़्ते से अधिक"
+          ],
+          [
+            "recurring",
+            "कभी होती है, कभी नहीं"
+          ]
+        ]
+      },
+      {
+        "title": "यह कब ज़्यादा महसूस होती है?",
+        "note": "अपने सामान्य दिन के बारे में सोचें।",
+        "options": [
+          [
+            "sitting",
+            "बैठने या काम करने पर"
+          ],
+          [
+            "movement",
+            "चलने, सीढ़ियों या व्यायाम पर"
+          ],
+          [
+            "rest",
+            "आराम करते समय या रात में"
+          ],
+          [
+            "unsure",
+            "कोई स्पष्ट पैटर्न नहीं"
+          ]
+        ]
+      },
+      {
+        "title": "यह आपके दिन को कैसे प्रभावित करती है?",
+        "note": "आपका रोज़मर्रा का अनुभव महत्वपूर्ण है।",
+        "options": [
+          [
+            "mild",
+            "महसूस होती है, पर काम कर लेता/लेती हूँ"
+          ],
+          [
+            "limited",
+            "कुछ गतिविधियाँ कठिन हैं"
+          ],
+          [
+            "disrupted",
+            "काम या नींद में बाधा होती है"
+          ],
+          [
+            "severe",
+            "उस हिस्से का सामान्य उपयोग नहीं कर पाता/पाती"
+          ]
+        ]
+      },
+      {
+        "title": "क्या इनमें से कोई लक्षण है?",
+        "note": "नियमित अपॉइंटमेंट से पहले चिकित्सकीय सहायता ज़रूरी हो सकती है।",
+        "options": [
+          [
+            "none",
+            "नीचे दिए गए कोई लक्षण नहीं"
+          ],
+          [
+            "injury",
+            "गंभीर चोट या पैर पर वजन नहीं रख सकता/सकती"
+          ],
+          [
+            "nerve",
+            "नई कमजोरी या बड़े हिस्से में सुन्नपन"
+          ],
+          [
+            "urgent",
+            "पेशाब/मल नियंत्रण में नया बदलाव या जाँघों के बीच सुन्नपन"
+          ],
+          [
+            "unwell",
+            "बुखार के साथ गर्म, सूजा हुआ जोड़"
+          ],
+          [
+            "unknown",
+            "मुझे निश्चित नहीं है"
+          ]
+        ]
+      }
+    ],
+    "resultLabel": "आपके लिए सुझाई गई शुरुआत",
+    "resultPhysio": "फिजियोथेरेपी की जाँच।",
+    "resultManual": "फिजियोथेरेपी और हाथों से किए जाने वाले उपचार पर चर्चा।",
+    "resultClinical": "पहले चिकित्सक से बात करें।",
+    "resultUrgent": "अभी तत्काल चिकित्सकीय सहायता लें।",
+    "resultPhysioBody": "फिजियोथेरेपी की जाँच से आपकी परेशानी समझने और गतिविधि, व्यायाम या हाथों से दी जाने वाली सहायता पर बात करने में मदद मिल सकती है। चिकित्सक तय करेंगे कि कौन-सा उपचार उपयुक्त है।",
+    "resultManualBody": "शुरुआत फिजियोथेरेपी की जाँच से करें। लंबे समय से कमर या गर्दन की कुछ परेशानियों में चिकित्सक गतिविधि संबंधी सहायता के साथ कायरोप्रैक्टिक जैसी तकनीकों पर चर्चा कर सकते हैं। यह क्विज़ उपयुक्तता तय नहीं कर सकती।",
+    "resultClinicalBody": "नियमित उपचार से पहले जल्द चिकित्सकीय सलाह लें। नई कमजोरी, गंभीर चोट या बुखार के साथ सूजे हुए जोड़ में तत्काल देखभाल की ज़रूरत हो सकती है। लक्षण गंभीर हों या बढ़ रहे हों तो तत्काल चिकित्सा सेवाओं का उपयोग करें; क्लिनिक के जवाब का इंतज़ार न करें। यह क्विज़ गंभीरता पूरी तरह नहीं जाँच सकती।",
+    "resultUrgentBody": "कमर दर्द के साथ पेशाब या मल नियंत्रण में नया बदलाव, या जाँघों के बीच सुन्नपन होने पर आपातकालीन जाँच की ज़रूरत हो सकती है। क्लिनिक के व्हाट्सऐप जवाब का इंतज़ार न करें। निकटतम आपातकालीन विभाग जाएँ या भारत की आपातकालीन संख्या 112 पर कॉल करें।",
+    "quizLimits": "यह निदान नहीं है। यह क्विज़ अपने आप हिजामा की सलाह नहीं देती; प्रमाण, जोखिम और उपयुक्तता पर चिकित्सक से चर्चा करें।",
+    "sendSummary": "मेरी जानकारी भेजें",
+    "callClinic": "क्लिनिक को कॉल करें",
+    "emergencyCall": "112 पर कॉल करें",
+    "restart": "फिर से शुरू करें",
+    "aboutLabel": "04 / क्लिनिक के बारे में",
+    "aboutHeading": "स्थानीय देखभाल।\nउपचार की स्पष्ट योजना।",
+    "qualification": "योग्यता",
+    "meetPractitioner": "क्लिनिक में अपॉइंटमेंट लें",
+    "practitionerPhotoSlot": "चिकित्सक की वास्तविक तस्वीर",
+    "clinicPhotoSlot": "क्लिनिक की वास्तविक तस्वीर",
+    "photoPending": "तस्वीर उपलब्ध कराई जानी है",
+    "clinicPhotoAlt": "क्लिनिक के भीतर फैमिली फिजियो क्लिनिक की टीम",
+    "clinicPhotoCaption": "फैमिली फिजियो क्लिनिक की देखभाल के पीछे की टीम।",
+    "reviewsLabel": "05 / हमारे समुदाय की बातें",
+    "reviewsHeading": "देखभाल, उनके शब्दों में।",
+    "reviewsPending": "वास्तविक गूगल समीक्षाएँ मिलने पर यहाँ दिखाई जाएँगी। कोई नमूना प्रशंसा या रेटिंग नहीं दिखाई गई है।",
+    "previousReviews": "पिछली समीक्षाएँ",
+    "nextReviews": "अगली समीक्षाएँ",
+    "reviewsRegion": "क्लिनिक की समीक्षाएँ",
+    "reviewsScroll": "स्वाइप करें या तीरों का उपयोग करें",
+    "allReviews": "गूगल पर पूरी समीक्षाएँ पढ़ें",
+    "reviewPendingLabel": "गूगल समीक्षा / {number}",
+    "reviewPendingTitle": "यहाँ एक वास्तविक अनुभव आएगा।",
+    "reviewPendingBody": "गूगल की वास्तविक मरीज समीक्षा के लिए सुरक्षित स्थान।",
+    "googleReview": "गूगल समीक्षा",
+    "ratingLabel": "5 में से {rating} स्टार",
+    "visitLabel": "06 / हमसे मिलें",
+    "visitHeading": "भजनपुरा, दिल्ली में\nफिजियोथेरेपी।",
+    "openingHours": "खुलने का समय",
+    "confirmVisit": "अपॉइंटमेंट की उपलब्धता जानने के लिए कॉल या व्हाट्सऐप करें।",
+    "mapFrameTitle": "गूगल मैप्स पर फैमिली फिजियो क्लिनिक का स्थान",
+    "openMaps": "गूगल मैप्स में खोलें",
+    "footerLine": "जाँच के लिए संपर्क करें।\nअगला कदम लें।",
+    "backTop": "ऊपर जाएँ",
+    "disclaimer": "परिणाम अलग-अलग हो सकते हैं। जाँच के लिए कृपया हमारे चिकित्सक से परामर्श करें।",
+    "footerLocation": "दिल्ली, भारत",
+    "panelLabel": "देखभाल की एक शुरुआत",
+    "closePanel": "दर्द की जानकारी बंद करें",
+    "commonCauses": "संभव सामान्य कारण",
+    "helpfulCare": "उपचार के विकल्प",
+    "panelNote": "एक जैसे लक्षणों के अलग-अलग कारण हो सकते हैं। जाँच से चिकित्सक आपके लिए उपयुक्त तरीका समझ सकते हैं।",
+    "bookThis": "इस परेशानी के लिए संपर्क करें",
+    "preferCall": "बात करना चाहते हैं? कॉल करें",
+    "pain": {
+      "neck": {
+        "name": "गर्दन का दर्द",
+        "intro": "सिर घुमाने, ऊपर देखने और काम का दिन अधिक आराम से बिताने के लिए।",
+        "causes": "मांसपेशियों में खिंचाव या तनाव, लंबे समय तक एक स्थिति में रहना और जोड़ों में बदलाव योगदान दे सकते हैं। सही कारण समझने के लिए जाँच ज़रूरी है।",
+        "care": "फिजियोथेरेपी में गतिविधियों का मार्गदर्शन, व्यायाम और उपयुक्त सहायता शामिल हो सकती है। कायरोप्रैक्टिक या अन्य तकनीकों के लिए उपयुक्तता की जाँच ज़रूरी है; हिजामा सामान्य शुरुआती उपचार नहीं है।"
+      },
+      "shoulder": {
+        "name": "कंधे का दर्द",
+        "intro": "हाथ बढ़ाने, कपड़े पहनने और रोज़ की छोटी गतिविधियों के लिए।",
+        "causes": "टेंडन में परेशानी, मांसपेशियों में खिंचाव, जोड़ों की समस्या या फ्रोज़न शोल्डर कारण हो सकते हैं। इनके लिए अलग-अलग तरीके ज़रूरी हो सकते हैं।",
+        "care": "फिजियोथेरेपी की जाँच से गतिविधि, ताकत और उपयुक्त सहायता पर चर्चा शुरू करें। कायरोप्रैक्टिक या हिजामा पर जाँच के बाद ही चर्चा करें।"
+      },
+      "back": {
+        "name": "कमर का दर्द",
+        "intro": "कमर दर्द या पैर में नीचे की ओर जाता दर्द? अपने लक्षण और कठिन लगने वाली गतिविधियाँ बताएँ।",
+        "causes": "मांसपेशियों का खिंचाव, जोड़ों की अकड़न या नस में परेशानी से कमर या पैर में दर्द हो सकता है। साइटिका में सायटिक नस प्रभावित होती है; जाँच से लक्षणों का कारण समझा जाता है।",
+        "care": "फिजियोथेरेपी की जाँच के अनुसार व्यायाम, गतिविधियों का मार्गदर्शन और हाथों से उपचार चुना जाता है। कमर दर्द में हाथों से उपचार के साथ व्यायाम भी शामिल होता है।"
+      },
+      "knee": {
+        "name": "घुटने का दर्द",
+        "intro": "चलने, सीढ़ियाँ चढ़ने और अपनी पसंदीदा कुर्सी से उठने के लिए।",
+        "causes": "अधिक उपयोग, खिंचाव, टेंडन की परेशानी, चोट या गठिया की भूमिका हो सकती है। जाँच से इनके बीच अंतर समझने में मदद मिलती है।",
+        "care": "फिजियोथेरेपी में ताकत, गतिविधि और चलने-फिरने के मार्गदर्शन पर चर्चा हो सकती है। घुटने के दर्द के लिए कायरोप्रैक्टिक या हिजामा अपने आप सही विकल्प नहीं होते; पहले उपयुक्तता पर चर्चा करें।"
+      },
+      "ankle": {
+        "name": "टखने का दर्द",
+        "intro": "चलने और रोज़मर्रा की गतिविधियों के लिए एक स्थिर शुरुआत।",
+        "causes": "मोच, टेंडन की परेशानी, अधिक उपयोग या जोड़ों की समस्या योगदान दे सकते हैं। गंभीर चोट या पैर पर वजन न रख पाना होने पर जल्द चिकित्सकीय सलाह लें।",
+        "care": "फिजियोथेरेपी की जाँच में गतिशीलता, संतुलन और ताकत पर चर्चा हो सकती है। कायरोप्रैक्टिक या हिजामा टखने के सामान्य शुरुआती उपचार नहीं हैं; उपयुक्त विकल्पों के बारे में पूछें।"
+      },
+      "spine": {
+        "name": "पीठ और रीढ़ की परेशानी",
+        "intro": "बताएँ कि पीठ के किस हिस्से में परेशानी है और कौन-सी रोज़मर्रा की गतिविधियाँ कठिन लगती हैं।",
+        "causes": "मांसपेशियों का खिंचाव और अन्य मांसपेशियों व जोड़ों से जुड़े कारण सामान्य हैं। कभी नसों या अन्य स्थितियों की भूमिका होती है; केवल दर्द से कारण तय नहीं होता।",
+        "care": "फिजियोथेरेपी की जाँच के अनुसार व्यायाम, गतिविधियों का मार्गदर्शन और हाथों से उपचार चुना जाता है। कमर दर्द में हाथों से उपचार के साथ व्यायाम भी शामिल होता है।"
+      }
+    },
+    "messages": {
+      "general": "नमस्ते, मैं {clinic} में जाँच के लिए अपॉइंटमेंट लेना चाहता/चाहती हूँ।",
+      "physio": "नमस्ते, मैं {clinic} में फिजियोथेरेपी पर चर्चा करना चाहता/चाहती हूँ।",
+      "chiro": "नमस्ते, मैं {clinic} में कायरोप्रैक्टिक और उसकी उपयुक्तता पर चर्चा करना चाहता/चाहती हूँ।",
+      "hijama": "नमस्ते, मैं {clinic} में हिजामा, उसके जोखिम और उपयुक्तता पर चर्चा करना चाहता/चाहती हूँ।",
+      "practitioner": "नमस्ते, मैं {clinic} में {practitioner} से जाँच के लिए अपॉइंटमेंट लेना चाहता/चाहती हूँ।",
+      "pain": "नमस्ते, मैं {clinic} में {concern} के लिए अपॉइंटमेंट लेना चाहता/चाहती हूँ।",
+      "quiz": "नमस्ते, मैं {clinic} में जाँच पर चर्चा करना चाहता/चाहती हूँ।\nमेरे चेक-इन के उत्तर:\n{answers}\nसुझाई गई शुरुआत: {result}\nकृपया उपलब्धता बताएँ।",
+      "fees": "नमस्ते, {clinic} में परामर्श की फीस कितनी है और अपॉइंटमेंट कब उपलब्ध है?"
+    },
+    "metaTitle": "{clinic} | भजनपुरा, दिल्ली में फिजियोथेरेपी",
+    "metaDescription": "भजनपुरा, दिल्ली के {clinic} में कमर, गर्दन, घुटने के दर्द और साइटिका के लिए फिजियोथेरेपी। जाँच, फीस और उपलब्धता के लिए कॉल या व्हाट्सऐप करें।",
+    "emergencyHelp": "आपातकालीन सहायता: 112",
+    "mapControlsLabel": "दर्द का हिस्सा चुनें",
+    "spineImageAlt": "तीन सुनहरे बिंदुओं के साथ हरे-नीले रंग में घुमावदार रीढ़ का रेखाचित्र",
+    "spineAria": "पीठ और रीढ़ से जुड़ी परेशानियों के बारे में जानें",
+    "reviewExcerpt": "गूगल समीक्षा का अंश",
+    "reviewTranslation": "हिंदी अनुवाद",
+    "continuePainCheck": "दर्द के सवाल आगे बढ़ाएँ",
+    "consultationFeeLabel": "परामर्श की फीस",
+    "askFee": "क्लिनिक से पूछें",
+    "checkFee": "फीस और उपलब्धता के बारे में पूछें",
+    "reviewLinkNote": "गूगल समीक्षाओं के चुने गए अंश। पूरी समीक्षाएँ क्लिनिक की लिस्टिंग पर पढ़ें।"
+  }
+}
